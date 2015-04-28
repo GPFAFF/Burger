@@ -23,7 +23,7 @@ $(document).ready(function () {
         });
 
         //set margin for the whole container with a jquery UI animation
-        $("#container").animate({"marginLeft": ["30%", 'easeOutExpo']}, {
+        $("#container").animate({"marginLeft": ["40%", 'easeOutExpo']}, {
             duration: 700
         });
 
